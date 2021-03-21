@@ -8,8 +8,16 @@
 
     android:orientation="vertical"
     tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="26dp"/>
 
     <TextView
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/tvfullname"/>
@@ -37,7 +45,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:hint="email"
+        android:hint="example@gmail.com"
         android:id="@+id/email"/>
     <TextView
         android:layout_width="match_parent"
