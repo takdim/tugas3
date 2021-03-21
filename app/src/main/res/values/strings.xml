@@ -12,6 +12,6 @@
     <string name="tvfullname">Full Name</string>
     <string name="tvage">Age</string>
     <string name="cbrememberme">Remember Me</string>
-    <string name="tvreset">enter your email addres and we'll send you a link to reset your password</string>
+    <string name="tvreset">enter your email addres and we\'ll send you a link to reset your password</string>
 
 </resources>
