@@ -1,3 +1,3 @@
 untuk download apknya
 siahkan ke link berikut
-https://cutt.ly/axdQVEO
+https://cutt.ly/lxEkNRt
